@@ -1,12 +1,8 @@
-class A
+class helloworld 
 {
-   public static void main(String args[])
-     {
-	    System.out.print("learn coding");
-		}
-		
-		
-		
- }  
-   
-   
+public static void main(String[]args)
+{
+System.out.println("helloworld");
+System.out.println("i will doing 100 days java challenge");
+}
+}
